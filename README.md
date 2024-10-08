@@ -1,4 +1,6 @@
-# Universal Mod Template by thebuildcraft
+# Simple Universal Mod Template by Abel
+
+Originally based on TheBuildCraft's Universal Mod Template (you can check it out by following the fork)
 
 This is a multi-loader and multi-version minecraft mod template that supports client and server mods/plugins.
 Most of the build scripts are originally from the Distant Horizons mod by James Seibel.
