@@ -1,14 +1,11 @@
 {
     "required": true,
     "minVersion": "0.8",
-    "package": "de.the_build_craft.example_mod.mixins",
+    "package": "nl.abelkrijgtalles.example_mod.mixins",
     "mixins": [
     ],
     "client": [
-        "neoforge.client.SplashManagerMixin",
-        "common.client.TitleScreenMixin"
     ],
     "server": [
-    ],
-    "plugin": "de.the_build_craft.example_mod.mixins.neoforge.NeoforgeMixinPlugin"
+    ]
 }
